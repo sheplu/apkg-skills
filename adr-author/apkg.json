@@ -1,0 +1,13 @@
+{
+  "name": "@sheplu/adr-author",
+  "version": "0.1.0",
+  "type": "skill",
+  "description": "Instructions to define Architecture Decision Records in a complete and reusable way",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "architecture",
+    "adr",
+    "documentation"
+  ]
+}
