@@ -1,0 +1,11 @@
+{
+  "name": "@sheplu/openapi-author",
+  "version": "0.1.0",
+  "type": "skill",
+  "description": "Skill build for safe, performant and well documented OpenAPI spec",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "openapi"
+  ]
+}
