@@ -1,0 +1,11 @@
+{
+  "name": "@sheplu/rfc-author",
+  "version": "0.1.0",
+  "type": "skill",
+  "description": "Skill to be used when writing or reviewing any kind of technical Request For Comments",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "rfc"
+  ]
+}
