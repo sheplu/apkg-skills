@@ -1,0 +1,12 @@
+{
+  "name": "@sheplu/documentation-review",
+  "version": "0.1.0",
+  "type": "skill",
+  "description": "Skill helping to keep a clean and focus documentation on a project.",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "documentation",
+    "review"
+  ]
+}
